@@ -47,14 +47,6 @@ Expense-Tracker/
 git clone https://github.com/mayurcodingx/expence-tracker.git
 ```
 
-> If your repository name actually contains a space (`expence tracker`), use:
->
-> ```bash
-> git clone "https://github.com/mayurcodingx/expence tracker.git"
-> ```
->
-
-
 ### 2. Go to the project folder
 
 ```bash
